@@ -5,9 +5,9 @@ export default function Credit() {
     <div class="credit">
     <p>
       Coded by
-      <a href="https://www.shecodes.io/graduates/73033-chaimae-lamirine"
+      <a href="https://github.com/Maverickme117/Myportfolio.git"
         > Rahul K</a
-      >, <a href="https://github.com/shemmee/React-Weather-App">Open sourced on Github.</a> Hosted on Netlify
+      >, <a href="https://github.com/Maverickme117/weather-app.git">Open sourced on Github.</a> Hosted on Netlify
     </p>
   </div>
   );
