@@ -26,9 +26,8 @@ To use this app, you can follow these steps:
 To use the app, simply type the name of the city you want to search for in the search bar and press Enter. The app will display the current weather conditions for the searched city.
 
 # Credits
-- The weather app was created by Maverickme117 as a final project using react.
+- The weather app was created by Maverickme117 as a  project using react.
 - The app uses the SheCodes Weather API to retrieve weather data.
-- for DEMO :https://react-weather-app-shemmee.netlify.app/
+  
 
-# License
-This project is licensed under the MIT license.
+
